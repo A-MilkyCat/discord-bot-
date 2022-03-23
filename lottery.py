@@ -19,4 +19,4 @@ async def on_message(message):
     if message.content == 'ping':
         await message.channel.send('pong')
 
-client.run('') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
+client.run('OTU2MTUwNTEwNjgyMDA1NTM0.YjsCjg.asFvhLbJsQHUju81iGUPs99vEaM') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
