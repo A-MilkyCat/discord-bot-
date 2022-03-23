@@ -18,5 +18,5 @@ async def on_message(message):
     #如果包含 ping，機器人回傳 pong
     if message.content == 'ping':
         await message.channel.send('pong')
-
+print('HI')
 client.run('') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
