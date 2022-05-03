@@ -207,5 +207,5 @@ async def profile(ctx):
     # k = 'name'
     # await ctx.send(k + 'hii', )
 
-bot.run(filedata["token"]) #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
+bot.run(filedata["token"]) #TOKEN 在剛剛 jdata裡
 
